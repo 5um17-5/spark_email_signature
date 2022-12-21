@@ -1,0 +1,9 @@
+.first_column{
+    width: 200px;
+    padding-right: 30px;
+    }
+
+    .second_column{
+        width: 400px;
+        color: green;
+    }
