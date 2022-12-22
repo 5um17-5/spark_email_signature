@@ -1,0 +1,15 @@
+.first_column{
+    width: 200px;
+    padding-right: 30px;
+    }
+
+    .second_column{
+        width: 400px;
+        color: rgb(1, 1, 161);
+        padding-bottom: 20px;
+    }
+
+    .para1{
+        width: 640px;
+        text-align: justify;
+    }
